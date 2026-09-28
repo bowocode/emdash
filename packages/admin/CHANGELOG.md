@@ -1,5 +1,13 @@
 # @emdash-cms/admin
 
+## 1.0.1-rc.2
+
+### Patch Changes
+
+- [#3534](https://github.com/emdash-cms/emdash/pull/3534) [`6f2ef26`](https://github.com/emdash-cms/emdash/commit/6f2ef26f7dc2bd79e191ba5d361923277b35da68) Thanks [@MA2153](https://github.com/MA2153)! - Completes the Arabic (العربية) translation of the admin UI. Every admin string now has an Arabic translation, so Arabic users no longer see English fallback text.
+- Updated dependencies []:
+  - @emdash-cms/blocks@1.0.1-rc.2
+
 ## 1.0.1-rc.1
 
 ### Patch Changes

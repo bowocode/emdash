@@ -1,5 +1,15 @@
 # emdash
 
+## 1.0.1-rc.2
+
+### Patch Changes
+
+- Updated dependencies [[`6f2ef26`](https://github.com/emdash-cms/emdash/commit/6f2ef26f7dc2bd79e191ba5d361923277b35da68)]:
+  - @emdash-cms/admin@1.0.1-rc.2
+  - @emdash-cms/auth@1.0.1-rc.2
+  - @emdash-cms/blocks@1.0.1-rc.2
+  - @emdash-cms/gutenberg-to-portable-text@1.0.1-rc.2
+
 ## 1.0.1-rc.1
 
 ### Patch Changes

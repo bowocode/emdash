@@ -1,5 +1,14 @@
 # @emdash-cms/plugin-test
 
+## 0.2.6-rc.2
+
+### Patch Changes
+
+- Updated dependencies []:
+  - emdash@1.0.1-rc.2
+  - @emdash-cms/cloudflare@1.0.1-rc.2
+  - @emdash-cms/blocks@1.0.1-rc.2
+
 ## 0.2.6-rc.1
 
 ### Patch Changes
